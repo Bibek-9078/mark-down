@@ -98,8 +98,8 @@ This is a second  line.
 
 [This is my my linkdin here](https://www.linkedin.com/in/bibek-kumar-panda/)
 
-image and video
-[image](
+**image and video**
+![image](10000.png)
 
 
 
